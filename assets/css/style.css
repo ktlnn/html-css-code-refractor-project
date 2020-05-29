@@ -1,0 +1,120 @@
+body {
+    background-color: #d9dcd6;
+}
+
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+/* changes color of specified element "seo" */
+.seo {
+   color: #d9dcd6; 
+}
+
+/* creates specified area for everything in nav tag */
+.header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.header nav ul {
+    list-style-type: none;
+}
+
+.header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+.content {
+    width: 75%;
+    margin-left: 20px;
+}
+
+a {
+    color: #ffffff;
+}
+
+p {
+    font-size: 20 px;
+}
+
+.main-pic {
+ height: 900px;
+ width: 100%;
+ margin-bottom: 25px; 
+ size: cover;
+ position: center;  
+}
+
+.search-engine-optimization,
+.online-reputation-management,
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.search-engine-optimization h2,
+.online-reputation-management h2,
+.social-media-marketing h2 {
+    font-size: 36px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+    width: 30%;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+    width: 30%;
+}
+
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+.benefits-lead,
+.benefits-brand,
+.benefits-cost {
+    color: #ffffff;
+    margin-bottom: 32px;
+}
+
+.benefits-lead h3,
+.benefits-brand h3,
+.benefits-cost h3 {
+    text-align: center;
+}
+
+.benefits-lead img,
+.benefits-brand img,
+.benefits-cost img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
