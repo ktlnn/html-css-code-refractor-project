@@ -37,13 +37,13 @@ body {
     margin-left: 25px;
 }
 
+a {
+    color: #ffffff;
+}
+
 .content {
     width: 75%;
     margin-left: 20px;
-}
-
-a {
-    color: #ffffff;
 }
 
 p {
@@ -118,3 +118,12 @@ p {
     max-width: 150px;
 }
 
+.footer {
+    padding: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.footer h2 {
+    font-size: 20px;
+}
